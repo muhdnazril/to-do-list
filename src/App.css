@@ -1,0 +1,17 @@
+.Navi{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
